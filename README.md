@@ -1,5 +1,5 @@
 # 'Operator' (Agent Zero Fork)
-
+- We are experimenting to modify an Agent Zero repo fork with a new suite of tools which can operate as a business' admin
 
 
 **Personal and organic AI framework**
